@@ -10,7 +10,7 @@ public class Q6 {
     public static void main(String[] args){
         int[] citations = {3, 3, 3};
 
-        Solution6Sub solution = new Solution6Sub();
+        SolutionQ6 solution = new SolutionQ6();
         consoleOut(solution.solution(citations));
     }
 
